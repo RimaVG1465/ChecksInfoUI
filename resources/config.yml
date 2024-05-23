@@ -1,0 +1,9 @@
+afk-zone:
+  world: ""
+  x1: 100
+  y1: 64
+  z1: 100
+  x2: 110
+  y2: 70
+  z2: 110
+reward-amount: 1
